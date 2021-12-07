@@ -1,3 +1,15 @@
 # titanic
 
-explore the titanic data to explore the passengers on the boat.
+
+
+# Feature description
+
+WikiId
+Name
+Age
+Hometown
+Boarded
+Destination
+Lifeboat
+Body
+Class
